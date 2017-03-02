@@ -9,5 +9,6 @@
 #include "utility.h"
 
 vector<int> generate_vec(int num);
+vector<int> unique_generate_vec(int num);
 
 #endif
