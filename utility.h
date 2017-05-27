@@ -15,6 +15,7 @@
 #include <fcntl.h>
 #include <set>
 #include <algorithm>
+#include <map>
 using namespace std;
 
 uint32_t BKDRHash32(const char *str, uint32_t len); /* 32bit version */
